@@ -1,6 +1,9 @@
-<!-- Animated Intro -->
+<p align="center">
+<img src="banner.jpg" width="100%" />
+</p>
+
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=FF69B4&center=true&vCenter=true&width=550&lines=Hi+there+👋;I'm+Riya+Singh;Java+%7C+Spring+Boot+%7C+DSA;Exploring+Machine+Learning;Future+AI+Engineer"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=E63946&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Riya+Singh;Java+%7C+Spring+Boot+%7C+DSA;Exploring+Machine+Learning"/>
 </h1>
 
 <p align="center">
@@ -22,15 +25,15 @@ Computer Science Student • Backend Developer • Learning ML
 <p align="center">
 
 <a href="https://www.linkedin.com/in/riya-singh-173116301/">
-<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-C1121F?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/riya_singh17/">
-<img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-8B0000?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RiyaSingh1706">
-<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-5A0F0F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -41,17 +44,7 @@ Computer Science Student • Backend Developer • Learning ML
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring boot,ml,git"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RiyaSingh1706&theme=flat&margin-w=10&no-frame=true"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,git,mysql"/>
 
 </p>
 
@@ -61,9 +54,9 @@ Computer Science Student • Backend Developer • Learning ML
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RiyaSingh1706&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=555&bg_color=ffffff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RiyaSingh1706&show_icons=true&theme=radical"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaSingh1706&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaSingh1706&theme=radical"/>
 
 </p>
 
@@ -73,7 +66,7 @@ Computer Science Student • Backend Developer • Learning ML
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaSingh1706&layout=compact&title_color=FF69B4"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaSingh1706&layout=compact&theme=radical"/>
 
 </p>
 
@@ -83,7 +76,7 @@ Computer Science Student • Backend Developer • Learning ML
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/riya_singh17?theme=light&font=Poppins"/>
+<img src="https://leetcard.jacoblin.cool/riya_singh17?theme=dark"/>
 
 </p>
 
@@ -92,10 +85,10 @@ Computer Science Student • Backend Developer • Learning ML
 ## 📜 Certifications
 
 - IBM — Web Development using HTML  
-  https://courses.etrain.skillsnetwork.site/certificates/bb2f90371dab418ab4607018fd5e69a0
+https://courses.etrain.skillsnetwork.site/certificates/bb2f90371dab418ab4607018fd5e69a0
 
 - J.P. Morgan — Software Engineering Virtual Experience Program  
-  https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_qaJbujFCkvruobcCL_1751370526396_completion_certificate.pdf
+https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_qaJbujFCkvruobcCL_1751370526396_completion_certificate.pdf
 
 ---
 
@@ -110,7 +103,5 @@ Machine Learning model for sentiment classification
 ---
 
 <p align="center">
-
 ✨ Always learning, always building ✨
-
 </p>
