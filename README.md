@@ -1,5 +1,5 @@
 <p align="center">
-<img src="banner.jpg" width="100%" />
+<img src="red aesthetic.jpg" width="100%" />
 </p>
 
 <h1 align="center">
