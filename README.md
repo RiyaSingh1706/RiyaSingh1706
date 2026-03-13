@@ -1,86 +1,116 @@
-<h1 align="center">Hi 👋 I'm Riya Singh</h1>
-<h3 align="center">Computer Science Student | Aspiring AI Engineer</h3>
+<!-- Animated Intro -->
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=3500&color=FF69B4&center=true&vCenter=true&width=550&lines=Hi+there+👋;I'm+Riya+Singh;Java+%7C+Spring+Boot+%7C+DSA;Exploring+Machine+Learning;Future+AI+Engineer"/>
+</h1>
 
----
-
-### 🌷 About Me
-
-- Passionate about **Software Development & AI**
-- Currently learning **Java, Spring Boot, DSA and Machine Learning**
-- Interested in building **scalable backend systems and intelligent applications**
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/riya-singh-173116301/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://leetcode.com/u/riya_singh17/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-<a href="https://github.com/RiyaSingh1706" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
+<p align="center">
+Computer Science Student • Backend Developer • Learning ML
 </p>
 
 ---
 
-### 🛠 Tech Stack
+## 🌷 About Me
 
-<p>
+- Interested in **Backend Development and Machine Learning**
+- Currently learning **Spring Boot, Data Structures & Algorithms**
+- Enjoy building projects and solving coding problems
 
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk"/>
-<img src="https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot"/>
-<img src="https://img.shields.io/badge/DSA-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MachineLearning-orange?style=for-the-badge&logo=scikitlearn"/>
-<img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/riya-singh-173116301/">
+<img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/riya_singh17/">
+<img src="https://img.shields.io/badge/LeetCode-FFB6C1?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/RiyaSingh1706">
+<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 💻 Tech Stack
 
-![Riya's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiyaSingh1706&show_icons=true&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,spring boot,ml,git"/>
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RiyaSingh1706&theme=tokyonight)
+</p>
 
 ---
 
-### 💻 Top Languages
+## 🏆 GitHub Achievements
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaSingh1706&layout=compact&theme=tokyonight)
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=RiyaSingh1706&theme=flat&margin-w=10&no-frame=true"/>
 
-### 📜 Certifications
-
-🏅 **IBM Certification**
-- Web Development using HTML
-
-🏅 **J.P. Morgan Software Engineering Virtual Experience Program**
-- Completed job simulation involving real-world software engineering tasks and problem solving.
-
-🏅 **CDAC Bootcamp**
-- Big Data and Hadoop Technologies
+</p>
 
 ---
 
-### 🚀 Interests
+## 📊 GitHub Stats
 
-- Backend Development (Spring Boot)
-- Data Structures & Algorithms
-- Machine Learning Applications
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RiyaSingh1706&show_icons=true&title_color=FF69B4&icon_color=FF69B4&text_color=555&bg_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RiyaSingh1706&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+
+</p>
 
 ---
 
-*Always learning, always building.*
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiyaSingh1706&layout=compact&title_color=FF69B4"/>
+
+</p>
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/riya_singh17?theme=light&font=Poppins"/>
+
+</p>
+
+---
+
+## 📜 Certifications
+
+- IBM — Web Development using HTML  
+  https://courses.etrain.skillsnetwork.site/certificates/bb2f90371dab418ab4607018fd5e69a0
+
+- J.P. Morgan — Software Engineering Virtual Experience Program  
+  https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_qaJbujFCkvruobcCL_1751370526396_completion_certificate.pdf
+
+---
+
+## 🚀 Featured Projects
+
+📦 **Inventory Management System**  
+Spring Boot • MySQL • React  
+
+🎬 **Movie Review Sentiment Analysis**  
+Machine Learning model for sentiment classification
+
+---
+
+<p align="center">
+
+✨ Always learning, always building ✨
+
+</p>
