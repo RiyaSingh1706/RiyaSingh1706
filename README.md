@@ -1,6 +1,3 @@
-<p align="center">
-<img src="red aesthetic.jpg" width="100%" />
-</p>
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&color=E63946&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Riya+Singh;Java+%7C+Spring+Boot+%7C+DSA;Exploring+Machine+Learning"/>
